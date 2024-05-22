@@ -1,4 +1,4 @@
-// trigger my pipeline using gitwebhook
+// trigger my pipeline using githu-webhook
 pipeline{
     agent any
 
